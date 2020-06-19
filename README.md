@@ -33,3 +33,11 @@ streamlit run mini_demo.py
 ## Deploy
 
 <https://towardsdatascience.com/quickly-build-and-deploy-an-application-with-streamlit-988ca08c7e83>
+
+## You might also like Google Colab
+
+<https://colab.research.google.com/notebooks/intro.ipynb>
+
+<https://www.youtube.com/watch?v=6nGCGYWMObE>
+
+<https://github.com/hchiam/colaboratory-intro>
