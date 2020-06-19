@@ -2,6 +2,8 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
+You can quickly run a Machine Learning web app built with pure Python.
+
 ## Quick minimal setup
 
 ```bash
